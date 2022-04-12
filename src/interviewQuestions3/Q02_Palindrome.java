@@ -2,6 +2,7 @@ package interviewQuestions3;
 
 import java.util.Scanner;
 
+
 public class Q02_Palindrome {
       /*
         Crteate a program checks if a String is PALINDROME or not.
